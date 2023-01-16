@@ -1,1 +1,1 @@
-
+A JAVASCRIPT program we have to generate a random numberand store it in a variable. Program than takes a input from the user and tell them whether the gussed number is correct or not and greater or smaller to gussed number. It is expected to terminate once the number is gussed.
